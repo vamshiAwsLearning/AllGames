@@ -1,0 +1,17 @@
+{
+  "name": "codenames-server",
+  "version": "1.0.0",
+  "description": "Basic server to start with AWS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "keywords": [
+    "codename"
+  ],
+  "author": "vamshi reddy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
